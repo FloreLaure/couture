@@ -1,0 +1,17 @@
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/couture_mobile
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/lg.png
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.jpg
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/flore/Bureau/dev mobile/couture_mobile/build/linux/x64/debug/bundle/data/flutter_assets/version.json
